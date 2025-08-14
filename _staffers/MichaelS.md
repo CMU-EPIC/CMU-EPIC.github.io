@@ -7,4 +7,3 @@ website: https://mwskirpan.com
 photo: mskirpan.png
 ---
 
-I like teaching Computer Science!

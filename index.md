@@ -12,35 +12,26 @@ seo:
 {{ site.description }}
 {: .fs-6 .fw-300 }
 
-{% if site.announcements %}
-{{ site.announcements.last }}
-[Announcements](announcements.md){: .btn .btn-outline .fs-3 }
-{% endif %}
 
 
 <!-- <img src="assets/images/crafting_software_header_noBG.png" > 
 
 ## Welcome to 17-950 Crafting Software-->
 
-See previous class instances here: [2024](https://cmu-crafting-software.github.io/2024/) [2022](https://cmu-crafting-software.github.io/2022/), [2021](https://cmu-crafting-software.github.io/2020/)
+	
+Should autonomous robots make life and death decisions on their own? Should we allow them to select a target and launch weapons? To diagnose injuries and perform surgery when human doctors are not around? Who should be permitted to observe you, find out who your friends are, what you do and say with them, what you buy, and where you go? Do social media and personalized search restrict our intellectual horizons? Do we live in polarizing information bubbles, just hearing echoes of what we already know and believe? As computing technology becomes ever more pervasive and sophisticated, we are presented with an escalating barrage of decisions about who, how, when, and for what purposes technology should be used. This course will provide an intellectual framework for discussing these pressing issues of our time, as we shape the technologies that in turn shape us. We will seek insight through reading, discussion, guest lectures, and debates. Students will also undertake an analysis of a relevant issue of their choice, developing their own position, and acquiring the research skills needed to lend depth to their thinking. The course will enhance students' ability to think clearly about contentious technology choices, formulate smart positions, and support their views with winning arguments.
 
-Do you use programming to solve problems in your field of study? Do you know enough to be dangerous, but wish you could be proud of your code? This course aims to provide PhD students with sufficient knowledge and skills to use programming as part of their work. In this class, you will learn how to identify and find problems in your code. You will learn to read, parse, organize, and transform data. We will teach you to write code collaboratively and refine your programs so others can use them. The course will be a mixture of lecture and guided exercise with a recitation focused on hands on instruction. In this course, students are expected to have been exposed to some basic programming concepts, such as variables, if-statements, loops, and arrays. However, students are not expected to have extensive programming experience. This course is not appropriate for students that have completed more than two courses involving programming. If you have questions about your background and the fit for this class, please don’t hesitate to reach out to the instructors.
+## Key Topics:
+Who, how, when, and for what purposes technology should be used.
 
-### Learning Goals
+## Prerequisite Knowledge:
+This course is intended for undergraduate and masters students from across the university. There are no pre-requisites.
 
- - Identify the common resources available for developing software and evaluate the quality of the content. 
- - Understand important rules and conventions of software systems.
- - Understand and apply common languages and tools used to develop real-world software.
- - Apply collaborative work strategies when developing software.
- - Analyze alternative software tools and select appropriate choices for the problem.
- - Analyze software to diagnose problems and create solutions.
- - Create and deploy a web application that reads, parses, and analyzes data.
+## Course Relevance:
+In this course, students will study the social impacts of computing technology and systems. The course will provide a brief introduction to ethics and policy, and to the new and difficult questions modern computing technology presents us with. It will focus on a number of areas in which computers and information technology are having an impact on society including data privacy, social media, and autonomous technologies.
 
-### Structure of the course
+## Course Goals:
+The course will enhance students' ability to think clearly about contentious technology choices, formulate smart positions, and support their views with winning arguments
 
- - Meets thrice weekly
-    - Main class: Monday, Wednesday 2:00PM-3:20PM (WEH 4707)
-    - Recitation: Friday 2:00PM-2:50PM (WEH 4707)
- - Most classes will include both a lecture and a collaborative in-class exercise
- - There will be weekly homework assignments for students to practice that week’s material
- - There will be a summative final project, in which students will integrate the tools and techniques they have learned into a cohesive whole. 
+## Assessment Structure:
+We will seek insight through reading, discussion, guest lectures, and debates. Students will also undertake an analysis of a relevant issue of their choice, developing their own position, and acquiring the research skills needed to lend depth to their thinking
